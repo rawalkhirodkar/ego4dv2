@@ -5,7 +5,7 @@
 - It will create an conda environment "mmp" for you.
 
 ## Data Setup
-- Please download two demo sequences "calibration_uncego4d" and [001_uncego4d](https://drive.google.com/file/d/1DXKSfxvI5QD0_vutOUXmIK3Q92auY2_O/view?usp=share_link).
+- Please download two demo sequences [calibration_uncego4d](https://drive.google.com/file/d/1Z7BlguOJ9ZxgEQ2grrlwkPxaiAymAgo1/view?usp=share_link) and [001_uncego4d](https://drive.google.com/file/d/1DXKSfxvI5QD0_vutOUXmIK3Q92auY2_O/view?usp=share_link).
 - Unzip, it contains the timesynced images and colmap calibration output.
 - Paste the "calibration_uncego4d" anmd '001_uncego4d' under the path '/media/rawalk/disk1/rawalk/datasets/ego_exo/main/uncego4d'. Or change the sequence paths in the scripts.
 
